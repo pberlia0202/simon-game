@@ -1,0 +1,22 @@
+{
+    "name": "simon-game",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+        },
+        "repository": {
+          "type": "git",
+           "url": "git+https://github.com/pberlia0202/simon-game.git"
+        },
+        "author": "",
+        "license": "ISC",
+        "bugs": {
+            "url": "https://github.com/pberlia0202/simon-game/issues"
+        },
+        "homepage": "https://github.com/pberlia0202/simon-game#readme"
+    }
+     
+    
